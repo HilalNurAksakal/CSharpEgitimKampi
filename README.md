@@ -4,19 +4,19 @@ Murat Yücedağ'ın eğitmenliğinde gerçekleşen C# Eğitim kampında tamamlad
 
 ✨ Proje 1: 01_MainSubjects
 
-Konsola farklı veri tiplerinde yazı yazdırmayı içerir.
+➥ Konsola farklı veri tiplerinde yazı yazdırmayı içerir.
 
 ✨ Proje 2: 02_Variables
-Farklı veri tiplerinde değişken tanımlama, bu değişkenlere atama yapma ve konsola yazıdrma işlemlerini içerir.
+➥ Farklı veri tiplerinde değişken tanımlama, bu değişkenlere atama yapma ve konsola yazıdrma işlemlerini içerir.
 
 ✨ Proje 3: 03_MakingDecision
-İf-Else kullanımı, mod işlemleri, switch-case kullanarak işlemler yapmayı içerir.
+➥ İf-Else kullanımı, mod işlemleri, switch-case kullanarak işlemler yapmayı içerir.
 
 ✨ Proje 4: 04_Loops
-For ve While döngüleri kullanımları ve bunlar ile ilgili örnekleri içerir.
+➥ For ve While döngüleri kullanımları ve bunlar ile ilgili örnekleri içerir.
 
 ✨ Proje 5: 05_LoopsWithStars
-Değişkenler ve döngüleri kullanarak ekranda piramit, üçgen şekilleri oluşturma içerir.
+➥ Değişkenler ve döngüleri kullanarak ekranda piramit, üçgen şekilleri oluşturma içerir.
 
 ✨ Proje 6: 06_Arrays
 Dizi tanımlamaları, dizilere veri atamaları, dizilerdeki verileri çekip konsola yazdırmayı içerir
