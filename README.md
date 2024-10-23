@@ -3,6 +3,7 @@
 Murat Yücedağ'ın eğitmenliğinde gerçekleşen C# Eğitim kampında tamamladığım ilk 9 dersi içermektedir.
 
 ✨ Proje 1: 01_MainSubjects
+
 Konsola farklı veri tiplerinde yazı yazdırmayı içerir.
 
 ✨ Proje 2: 02_Variables
