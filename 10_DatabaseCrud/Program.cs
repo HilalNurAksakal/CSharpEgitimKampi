@@ -116,6 +116,7 @@ namespace _10_DatabaseCrud
             //Console.WriteLine("Güncelleme Başarılı");
             #endregion
 
+
             Console.Read();
         }
     }
